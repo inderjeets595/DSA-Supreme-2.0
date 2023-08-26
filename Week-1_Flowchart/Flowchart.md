@@ -8,5 +8,3 @@ Rectangles: These represent process steps or actions.
 Diamonds: These represent decision points where a choice needs to be made.
 Ovals: These represent the start or end points of the flowchart.
 Arrows: These indicate the flow and direction of the process, showing how one step leads to another.
-
-Flowchart is mainly used for graphical representation purpose.
